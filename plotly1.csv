@@ -1,0 +1,102 @@
+name,seconds,minutes,gender,species,is_human,num_minifigs,has_minifigs
+Admiral Ackbar,195,3.25,masculine,mon calamari,non human,2,TRUE
+Admiral Piett,195,3.25,masculine,human,human,1,TRUE
+Admiral Raddus,75,1.25,masculine,mon calamari,non human,1,TRUE
+Allegiant General Pryde,180,3,masculine,human,human,1,TRUE
+Anakin Skywalker / Darth Vader,9890,164.83,masculine,human,human,53,TRUE
+Babu Frik,90,1.5,masculine,anzellan,non human,0,FALSE
+Baze Malbus,495,8.25,masculine,human,human,1,TRUE
+BB-8,1320,22,masculine,droid,non human,3,TRUE
+Beaumont,90,1.5,masculine,human,human,0,FALSE
+Ben Solo / Kylo Ren,3285,54.75,masculine,human,human,7,TRUE
+Beru Lars,210,3.5,feminine,human,human,1,TRUE
+Bib Fortuna,165,2.75,masculine,twi'lek,non human,3,TRUE
+Biggs Darklighter,60,1,masculine,human,human,3,TRUE
+Boba Fett,300,5,masculine,human,human,17,TRUE
+Bodhi Rook,705,11.75,masculine,human,human,1,TRUE
+Boss Nass,180,3,masculine,gungan,non human,0,FALSE
+C-3PO,4275,71.25,masculine,droid,non human,11,TRUE
+Captain Cassian Andor,1500,25,masculine,human,human,2,TRUE
+Captain Needa,90,1.5,masculine,human,human,0,FALSE
+Captain Panaka,450,7.5,masculine,human,human,1,TRUE
+Captain Phasma,210,3.5,feminine,human,human,2,TRUE
+Captain Tarpals,90,1.5,masculine,gungan,non human,1,TRUE
+Captain Typho,135,2.25,masculine,human,human,0,FALSE
+Chewbacca,4815,80.25,masculine,wookiee,non human,7,TRUE
+Chirrut Îmwe,540,9,masculine,human,human,1,TRUE
+Cliegg Lars,120,2,masculine,human,human,0,FALSE
+Commander Cody,75,1.25,masculine,human,human,2,TRUE
+Commander D'Acy,165,2.75,feminine,human,human,0,FALSE
+Count Dooku / Darth Tyrannus,690,11.5,masculine,human,human,3,TRUE
+D-0,135,2.25,masculine,droid,non human,2,TRUE
+Darth Maul,405,6.75,masculine,zabrak,non human,11,TRUE
+Dexter Jettster,105,1.75,masculine,besalisk,non human,0,FALSE
+Director Orson Krennic,600,10,masculine,human,human,1,TRUE
+DJ,225,3.75,masculine,human,human,1,TRUE
+Dorme,90,1.5,feminine,human,human,0,FALSE
+Dryden Vos,450,7.5,masculine,human,human,0,FALSE
+Enfys Nest,255,4.25,feminine,human,human,1,TRUE
+Finn,4440,74,masculine,human,human,6,TRUE
+Galen Erso,390,6.5,masculine,human,human,0,FALSE
+General Dodonna,135,2.25,masculine,human,human,1,TRUE
+General Draven,135,2.25,masculine,human,human,0,FALSE
+General Grievous,360,6,masculine,"part-kaleesh, mostly droid (but don't tell him that)",non human,4,TRUE
+General Hux,615,10.25,masculine,human,human,2,TRUE
+General Rieekan,90,1.5,masculine,human,human,1,TRUE
+Governor Sio Bibble,195,3.25,masculine,human,human,0,FALSE
+Grand Moff Tarkin,540,9,masculine,human,human,3,TRUE
+Han Solo,8310,138.5,masculine,human,human,47,TRUE
+Jabba the Hutt,405,6.75,masculine,hutt,non human,1,TRUE
+Jango Fett,285,4.75,masculine,human,human,4,TRUE
+Jannah,300,5,feminine,human,human,1,TRUE
+Jar Jar Binks,1215,20.25,masculine,gungan,non human,2,TRUE
+Jyn Erso,2160,36,feminine,human,human,2,TRUE
+K-2S0,540,9,masculine,droid,non human,0,FALSE
+Ki-Adi-Mundi,255,4.25,masculine,cerean,non human,2,TRUE
+L3-37,435,7.25,feminine,droid,non human,0,FALSE
+Lady Proxima,75,1.25,feminine,grindalid,non human,0,FALSE
+Lama Su,120,2,masculine,kaminoan,non human,0,FALSE
+Lando Calrissian,1770,29.5,masculine,human,human,9,TRUE
+Leia Organa,4650,77.5,feminine,human,human,26,TRUE
+Lobot,75,1.25,masculine,human,human,3,TRUE
+Lor San Tekka,105,1.75,masculine,human,human,1,TRUE
+Lt. Connix,240,4,feminine,human,human,1,TRUE
+Luke Skywalker,7935,132.25,masculine,human,human,55,TRUE
+Lyra Erso,90,1.5,feminine,human,human,0,FALSE
+Mace Windu,870,14.5,masculine,human,human,8,TRUE
+Maz Kanata,345,5.75,feminine,unknown alien,non human,1,TRUE
+Moff Jerjerod,90,1.5,masculine,human,human,0,FALSE
+Mon Mothma,195,3.25,feminine,human,human,1,TRUE
+Nien Nunb,150,2.5,masculine,sullustan,non human,0,FALSE
+Nute Gunray,495,8.25,masculine,neimodian,non human,2,TRUE
+Obi-Wan Kenobi,6795,113.25,masculine,human,human,36,TRUE
+Owen Lars,315,5.25,masculine,human,human,2,TRUE
+Paige Tico,90,1.5,feminine,human,human,1,TRUE
+Poe Dameron,2805,46.75,masculine,human,human,10,TRUE
+Qi'ra,1770,29.5,feminine,human,human,3,TRUE
+Padme Amidala,4320,72,feminine,human,human,5,TRUE
+Qui-Gon Jinn,2130,35.5,masculine,human,human,8,TRUE
+R2-D2,3495,58.25,masculine,droid,non human,14,TRUE
+Rey Skywalker,7890,131.5,feminine,human,human,4,TRUE
+Rio Durant,180,3,masculine,ardennian,non human,1,TRUE
+Rose Tico,960,16,feminine,human,human,2,TRUE
+Sabe,135,2.25,feminine,human,human,0,FALSE
+Saw Gerrera,285,4.75,masculine,human,human,0,FALSE
+Sebulba,105,1.75,masculine,dug,non human,2,TRUE
+Senator Bail Organa,390,6.5,masculine,human,human,1,TRUE
+Palpatine / Darth Sidious,2955,49.25,masculine,human,human,11,TRUE
+Shmi Skywalker,555,9.25,feminine,human,human,0,FALSE
+Snap Wexley,90,1.5,masculine,human,human,2,TRUE
+Supreme Chancellor Valorum,90,1.5,masculine,human,human,0,FALSE
+Supreme Leader Snoke,405,6.75,masculine,clone? living sponge? who knows...,non human,1,TRUE
+Taun We,150,2.5,feminine,kaminoan,non human,0,FALSE
+Tobias Beckett,1350,22.5,masculine,human,human,2,TRUE
+Unkar Plutt,60,1,masculine,crolute,non human,1,TRUE
+Val,315,5.25,feminine,human,human,1,TRUE
+Vice-Admiral Amilyn Holdo,330,5.5,feminine,human,human,1,TRUE
+Watto,360,6,masculine,toydarian,non human,3,TRUE
+Wedge Antilles,150,2.5,masculine,human,human,5,TRUE
+Wicket,210,3.5,masculine,ewok,non human,3,TRUE
+Yoda,2610,43.5,masculine,mystery alien,non human,15,TRUE
+Zam Wesell,165,2.75,feminine,clawdite,non human,1,TRUE
+Zorii Bliss,270,4.5,feminine,human,human,1,TRUE

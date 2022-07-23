@@ -1,0 +1,109 @@
+era,name,seconds,minutes,gender,species,is_human,num_minifigs
+1 (Ep. 1-3),Anakin Skywalker / Darth Vader,7455,124.25,masculine,human,human,22
+1 (Ep. 1-3),Beru Lars,105,1.75,feminine,human,human,0
+1 (Ep. 1-3),Boba Fett,135,2.25,masculine,human,human,3
+1 (Ep. 1-3),Boss Nass,180,3,masculine,gungan,non human,0
+1 (Ep. 1-3),C-3PO,540,9,masculine,droid,non human,0
+1 (Ep. 1-3),Captain Panaka,450,7.5,masculine,human,human,1
+1 (Ep. 1-3),Captain Tarpals,90,1.5,masculine,gungan,non human,1
+1 (Ep. 1-3),Captain Typho,135,2.25,masculine,human,human,0
+1 (Ep. 1-3),Chewbacca,60,1,masculine,wookiee,non human,0
+1 (Ep. 1-3),Cliegg Lars,120,2,masculine,human,human,0
+1 (Ep. 1-3),Commander Cody,75,1.25,masculine,human,human,0
+1 (Ep. 1-3),Count Dooku / Darth Tyrannus,690,11.5,masculine,human,human,2
+1 (Ep. 1-3),Darth Maul,360,6,masculine,zabrak,non human,6
+1 (Ep. 1-3),Dexter Jettster,105,1.75,masculine,besalisk,non human,0
+1 (Ep. 1-3),Dorme,90,1.5,feminine,human,human,0
+1 (Ep. 1-3),General Grievous,360,6,masculine,"part-kaleesh, mostly droid (but don't tell him that)",non human,1
+1 (Ep. 1-3),Governor Sio Bibble,195,3.25,masculine,human,human,0
+1 (Ep. 1-3),Grand Moff Tarkin,15,0.25,masculine,human,human,0
+1 (Ep. 1-3),Jabba the Hutt,30,0.5,masculine,hutt,non human,0
+1 (Ep. 1-3),Jango Fett,285,4.75,masculine,human,human,3
+1 (Ep. 1-3),Jar Jar Binks,1215,20.25,masculine,gungan,non human,2
+1 (Ep. 1-3),Ki-Adi-Mundi,255,4.25,masculine,cerean,non human,1
+1 (Ep. 1-3),Lama Su,120,2,masculine,kaminoan,non human,0
+1 (Ep. 1-3),Leia Organa,30,0.5,feminine,human,human,0
+1 (Ep. 1-3),Luke Skywalker,45,0.75,masculine,human,human,0
+1 (Ep. 1-3),Mace Windu,870,14.5,masculine,human,human,5
+1 (Ep. 1-3),Nute Gunray,495,8.25,masculine,neimodian,non human,1
+1 (Ep. 1-3),Obi-Wan Kenobi,5550,92.5,masculine,human,human,20
+1 (Ep. 1-3),Owen Lars,120,2,masculine,human,human,0
+1 (Ep. 1-3),Padme Amidala,4320,72,feminine,human,human,4
+1 (Ep. 1-3),Palpatine / Darth Sidious,2160,36,masculine,human,human,2
+1 (Ep. 1-3),Qui-Gon Jinn,2130,35.5,masculine,human,human,8
+1 (Ep. 1-3),R2-D2,1050,17.5,masculine,droid,non human,0
+1 (Ep. 1-3),Sabe,135,2.25,feminine,human,human,0
+1 (Ep. 1-3),Sebulba,105,1.75,masculine,dug,non human,1
+1 (Ep. 1-3),Senator Bail Organa,315,5.25,masculine,human,human,0
+1 (Ep. 1-3),Shmi Skywalker,555,9.25,feminine,human,human,0
+1 (Ep. 1-3),Supreme Chancellor Valorum,90,1.5,masculine,human,human,0
+1 (Ep. 1-3),Taun We,150,2.5,feminine,kaminoan,non human,0
+1 (Ep. 1-3),Watto,360,6,masculine,toydarian,non human,3
+1 (Ep. 1-3),Yoda,1500,25,masculine,mystery alien,non human,1
+1 (Ep. 1-3),Zam Wesell,165,2.75,feminine,clawdite,non human,1
+2 (Ep. 4-6),Admiral Ackbar,165,2.75,masculine,mon calamari,non human,1
+2 (Ep. 4-6),Admiral Piett,195,3.25,masculine,human,human,1
+2 (Ep. 4-6),Anakin Skywalker / Darth Vader,2235,37.25,masculine,human,human,16
+2 (Ep. 4-6),Beru Lars,105,1.75,feminine,human,human,1
+2 (Ep. 4-6),Bib Fortuna,165,2.75,masculine,twi'lek,non human,2
+2 (Ep. 4-6),Biggs Darklighter,60,1,masculine,human,human,3
+2 (Ep. 4-6),Boba Fett,165,2.75,masculine,human,human,11
+2 (Ep. 4-6),C-3PO,2835,47.25,masculine,droid,non human,9
+2 (Ep. 4-6),Captain Needa,90,1.5,masculine,human,human,0
+2 (Ep. 4-6),Chewbacca,2280,38,masculine,wookiee,non human,2
+2 (Ep. 4-6),General Dodonna,90,1.5,masculine,human,human,1
+2 (Ep. 4-6),General Rieekan,90,1.5,masculine,human,human,1
+2 (Ep. 4-6),Grand Moff Tarkin,330,5.5,masculine,human,human,2
+2 (Ep. 4-6),Han Solo,3645,60.75,masculine,human,human,39
+2 (Ep. 4-6),Jabba the Hutt,375,6.25,masculine,hutt,non human,1
+2 (Ep. 4-6),Lando Calrissian,870,14.5,masculine,human,human,7
+2 (Ep. 4-6),Leia Organa,3450,57.5,feminine,human,human,24
+2 (Ep. 4-6),Lobot,75,1.25,masculine,human,human,3
+2 (Ep. 4-6),Luke Skywalker,6390,106.5,masculine,human,human,52
+2 (Ep. 4-6),Moff Jerjerod,90,1.5,masculine,human,human,0
+2 (Ep. 4-6),Mon Mothma,60,1,feminine,human,human,1
+2 (Ep. 4-6),Nien Nunb,90,1.5,masculine,sullustan,non human,0
+2 (Ep. 4-6),Obi-Wan Kenobi,1245,20.75,masculine,human,human,13
+2 (Ep. 4-6),Owen Lars,195,3.25,masculine,human,human,2
+2 (Ep. 4-6),Palpatine / Darth Sidious,435,7.25,masculine,human,human,6
+2 (Ep. 4-6),R2-D2,2190,36.5,masculine,droid,non human,6
+2 (Ep. 4-6),Wedge Antilles,150,2.5,masculine,human,human,5
+2 (Ep. 4-6),Wicket,210,3.5,masculine,ewok,non human,3
+2 (Ep. 4-6),Yoda,990,16.5,masculine,mystery alien,non human,1
+3 (Ep. 7-9),Admiral Ackbar,30,0.5,masculine,mon calamari,non human,1
+3 (Ep. 7-9),Allegiant General Pryde,180,3,masculine,human,human,1
+3 (Ep. 7-9),Babu Frik,90,1.5,masculine,anzellan,non human,0
+3 (Ep. 7-9),BB-8,1320,22,masculine,droid,non human,0
+3 (Ep. 7-9),Beaumont,90,1.5,masculine,human,human,0
+3 (Ep. 7-9),Ben Solo / Kylo Ren,3285,54.75,masculine,human,human,7
+3 (Ep. 7-9),C-3PO,900,15,masculine,droid,non human,1
+3 (Ep. 7-9),Captain Phasma,210,3.5,feminine,human,human,2
+3 (Ep. 7-9),Chewbacca,1185,19.75,masculine,wookiee,non human,0
+3 (Ep. 7-9),Commander D'Acy,165,2.75,feminine,human,human,0
+3 (Ep. 7-9),D-0,135,2.25,masculine,droid,non human,1
+3 (Ep. 7-9),DJ,225,3.75,masculine,human,human,1
+3 (Ep. 7-9),Finn,4440,74,masculine,human,human,6
+3 (Ep. 7-9),General Hux,615,10.25,masculine,human,human,2
+3 (Ep. 7-9),Han Solo,1335,22.25,masculine,human,human,2
+3 (Ep. 7-9),Jannah,300,5,feminine,human,human,1
+3 (Ep. 7-9),Lando Calrissian,180,3,masculine,human,human,1
+3 (Ep. 7-9),Leia Organa,1155,19.25,feminine,human,human,1
+3 (Ep. 7-9),Lor San Tekka,105,1.75,masculine,human,human,1
+3 (Ep. 7-9),Lt. Connix,240,4,feminine,human,human,1
+3 (Ep. 7-9),Luke Skywalker,1500,25,masculine,human,human,2
+3 (Ep. 7-9),Maz Kanata,345,5.75,feminine,unknown alien,non human,1
+3 (Ep. 7-9),Nien Nunb,60,1,masculine,sullustan,non human,0
+3 (Ep. 7-9),Paige Tico,90,1.5,feminine,human,human,1
+3 (Ep. 7-9),Palpatine / Darth Sidious,360,6,masculine,human,human,0
+3 (Ep. 7-9),Poe Dameron,2805,46.75,masculine,human,human,8
+3 (Ep. 7-9),R2-D2,255,4.25,masculine,droid,non human,0
+3 (Ep. 7-9),Rey Skywalker,7740,129,feminine,human,human,4
+3 (Ep. 7-9),Rose Tico,960,16,feminine,human,human,2
+3 (Ep. 7-9),Snap Wexley,90,1.5,masculine,human,human,2
+3 (Ep. 7-9),Supreme Leader Snoke,405,6.75,masculine,clone? living sponge? who knows...,non human,1
+3 (Ep. 7-9),Unkar Plutt,60,1,masculine,crolute,non human,1
+3 (Ep. 7-9),Vice-Admiral Amilyn Holdo,330,5.5,feminine,human,human,1
+3 (Ep. 7-9),Wedge Antilles,0,0,masculine,human,human,0
+3 (Ep. 7-9),Wicket,0,0,masculine,ewok,non human,0
+3 (Ep. 7-9),Yoda,120,2,masculine,mystery alien,non human,0
+3 (Ep. 7-9),Zorii Bliss,270,4.5,feminine,human,human,1
