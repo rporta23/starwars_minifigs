@@ -2,8 +2,11 @@ library(tidyverse)
 library(shiny)
 library(plotly)
 
-data1 <- read_csv(here::here("plotly1.csv"))
-data2 <- read_csv(here::here("plotly2.csv"))
+data1 <- read_csv(here::here("plotly1.csv")) |>
+  mutate(ratio = round(num_minifigs/minutes, 2))
+
+data2 <- read_csv(here::here("plotly2.csv")) |>
+  mutate(ratio = round(num_minifigs/minutes, 2))
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -60,7 +63,14 @@ server <- function(input, output) {
   output$combined <- renderPlotly(
     if(nrow(selected_data() > 0)){
       p <- ggplotly(
-        ggplot(selected_data(), aes(x = minutes, y = num_minifigs, color = gender, text = paste("Name:", name, "\n#Minifigs:", num_minifigs, "\nScreentime:", minutes, "\nSpecies:", species))) +
+        ggplot(selected_data(),
+               aes(
+                 x = minutes,
+                 y = num_minifigs,
+                 color = gender,
+                 text = paste("Name:", name, "\n#Minifigs:", num_minifigs, "\nScreen time:", minutes, "\nSpecies:", species, "\n#Figs per minute of screentime:", ratio)
+                 )
+               ) +
           geom_point(alpha = 0.5) +
           # geom_smooth() + not working
           scale_color_manual(values = c(
@@ -82,8 +92,13 @@ server <- function(input, output) {
   output$by_era <- renderPlotly(
     if(nrow(selected_data2() > 0)){
       p <- ggplotly(
-        ggplot(selected_data2(), aes(x = minutes, y = num_minifigs, color = gender, text = paste("Name:", name, "\n#Minifigs:", num_minifigs, "\nScreentime:", minutes, "\nSpecies:", species))) +
-          geom_point() +
+        ggplot(selected_data2(),
+               aes(
+                 x = minutes,
+                 y = num_minifigs,
+                 color = gender,
+                 text = paste("Name:", name, "\n#Minifigs:", num_minifigs, "\nScreen time:", minutes, "\nSpecies:", species, "\n#Figs per minute of screentime:", ratio))) +
+          geom_point(alpha = 0.5) +
           scale_color_manual(values = c(
             "feminine" = "#f43b93",
             "masculine" = "#8cc63f"
@@ -117,7 +132,7 @@ server <- function(input, output) {
     list(src = "logo.png",
          width = 150,
          height = 100)
-  })
+  }, deleteFile = FALSE)
 }
 
 # Run the application

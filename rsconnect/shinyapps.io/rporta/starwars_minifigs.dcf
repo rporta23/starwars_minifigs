@@ -5,9 +5,9 @@ account: rporta
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6671422
-bundleId: 6123633
+bundleId: 6126888
 url: https://rporta.shinyapps.io/starwars_minifigs/
-when: 1658502916.68276
-lastSyncTime: 1658502916.68277
+when: 1658629684.9752
+lastSyncTime: 1658629684.97521
 asMultiple: FALSE
 asStatic: FALSE
