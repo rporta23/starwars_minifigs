@@ -129,7 +129,7 @@ server <- function(input, output) {
   })
 
   output$logo <- renderImage({
-    list(src = "logo.png",
+    list(src = "circle_logo.png",
          width = 150,
          height = 100)
   }, deleteFile = FALSE)
